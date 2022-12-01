@@ -1,6 +1,6 @@
 # bloxlink-api-fetch
 
-`bloxlink-api-fetch` is an unofficial Node.js API Wrapper for the [Bloxlink API](https://blox.link/developers).
+`bloxlink-api-fetch` is an unofficial Node.js API Wrapper for the [Bloxlink API](https://blox.link/developers). (v3)
 
 
 ## Installation
