@@ -1,0 +1,22 @@
+{
+  "name": "bloxlink-api-fetch",
+  "version": "1.0.0",
+  "description": "bloxlink-api-fetch is a NPM Package that allows you to fetch users that are verified with Bloxlink",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BuzzyBoy01Plays/bloxlink-api-fetch.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.0"
+  },
+  "keywords": [
+    "bloxlink",
+    "roblox",
+    "verify"
+  ]
+}
