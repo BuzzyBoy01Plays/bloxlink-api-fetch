@@ -47,19 +47,6 @@ If the user is not verified with Bloxlink, it will return:
    "error": "The specified user is not verified with Bloxlink."
 }
 ```
-## Future Updates
-
-`bloxlink-api-fetch` will receive many updates over the next couple of days/weeks. The next update I plan to add more data that is returned, such as: 
-
-```json
-{
-   "robloxUsername": "BuzzyBoy01Plays",
-   "robloxDisplay": "Buzzy",
-   "robloxId": "678830693",
-   "description": "Description",
-   "isBanned": false
-}
-```
 
 ## Debug
 
